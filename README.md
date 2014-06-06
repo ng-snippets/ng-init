@@ -10,4 +10,4 @@ general practice is to use `Controllers` for this task. This snippet is used
 just for demonstration on how ng-init is used.
 
 
-######keywords : <code>ng-app</code> <code>ng-model </code>
+######keywords : <code>ng-init</code>
